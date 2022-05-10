@@ -56,7 +56,7 @@ public class Vertex {
     }
     
     public void setVisited(boolean b){
-    	visited = b;
+    	visited = b;//asd
     }
     
     public int getPredecessor(){
