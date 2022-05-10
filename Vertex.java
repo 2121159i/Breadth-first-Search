@@ -48,7 +48,7 @@ public class Vertex {
     }
     
     public void setIndex(int n){
-    	index = index; //oh my god, what a mistake
+    	index = index; //oh my god, what a mistake. How can we fix this
     }
     
     public boolean getVisited(){
