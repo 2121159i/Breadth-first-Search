@@ -1,5 +1,5 @@
-import java.util.LinkedList;
-
+import java.util.LinkedList;//asd
+//lololol
 
 /**
  class to represent a  vertex in a graph
@@ -48,7 +48,7 @@ public class Vertex {
     }
     
     public void setIndex(int n){
-    	index = n;
+    	index = index; //oh my god, what a mistake. How can we fix this
     }
     
     public boolean getVisited(){
@@ -56,7 +56,7 @@ public class Vertex {
     }
     
     public void setVisited(boolean b){
-    	visited = b;
+    	visited = b;//asd
     }
     
     public int getPredecessor(){
